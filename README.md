@@ -51,9 +51,7 @@ Replace the values with your Appwrite credentials.
 ```sh
 npx expo start
 ```
-Choose an option:
-- Open in an **Android emulator**
-- Open in an **iOS simulator**
+
 - Use **Expo Go** to test on a physical device
 
 ---
