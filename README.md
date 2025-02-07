@@ -60,14 +60,14 @@ Choose an option:
 
 ## 📷 Screenshots
 
-### 🔹 Home Page
-![Home Page](#)  
-
-### 🔹 Upload Video Page
-![Upload Video](#)  
-
-### 🔹 Video Playback Page
-![Video Playback](#)  
+![Alt Text](assets/images/img1.png) 
+![Alt Text](assets/images/img2.png) 
+![Alt Text](assets/images/img3.png) 
+![Alt Text](assets/images/img4.png) 
+![Alt Text](assets/images/img5.png) 
+![Alt Text](assets/images/img6.png) 
+![Alt Text](assets/images/img7.png) 
+![Alt Text](assets/images/img8.png) 
 
 ---
 
