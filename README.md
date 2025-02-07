@@ -1,6 +1,6 @@
 # Aora - Video Sharing App
 
-![Aora Logo](#)  <!-- Add logo here -->
+<!-- Add logo here -->
 
 Aora is a modern **video-sharing application** built using **React Native, Appwrite, and Tailwind CSS**. It allows users to upload, browse, and share videos with a seamless experience.
 
@@ -60,14 +60,22 @@ Choose an option:
 
 ## 📷 Screenshots
 
-![Alt Text](assets/images/img1.png) 
-![Alt Text](assets/images/img2.png) 
-![Alt Text](assets/images/img3.png) 
-![Alt Text](assets/images/img4.png) 
-![Alt Text](assets/images/img5.png) 
-![Alt Text](assets/images/img6.png) 
-![Alt Text](assets/images/img7.png) 
-![Alt Text](assets/images/img8.png) 
+![Alt Text](assets/images/img1.png)  
+
+![Alt Text](assets/images/img2.png)  
+
+![Alt Text](assets/images/img3.png)  
+
+![Alt Text](assets/images/img4.png)  
+
+![Alt Text](assets/images/img5.png)  
+
+![Alt Text](assets/images/img6.png)  
+
+![Alt Text](assets/images/img7.png)  
+
+![Alt Text](assets/images/img8.png)  
+
 
 ---
 
